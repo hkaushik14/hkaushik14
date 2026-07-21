@@ -16,7 +16,7 @@ I enjoy turning ideas into products — from AI-powered developer tools to full-
 
 ### 🔧 What I'm building
 
-- [``](https://github.com/harsh4944/AppSpec-Compiler) — NL → full software spec · 5-stage LLM pipeline · 30+ endpoints
+- [`AppSpec Compiler`](https://github.com/harsh4944/AppSpec-Compiler) — NL → full software spec · 5-stage LLM pipeline · 30+ endpoints
 - [`RideX`](https://github.com/harsh4944/ridex) — Next.js e-commerce · Prisma ORM · 99%+ uptime on Vercel
 - [`Resume Matcher`](https://github.com/harsh4994/resume-filter) — Transformer embeddings · cosine similarity ranking
 
