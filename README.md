@@ -32,7 +32,6 @@ I enjoy turning ideas into products — from AI-powered developer tools to full-
 ### 📬 Reach me
 
 [harshkaushik494@gmail.com](mailto:harshkaushik494@gmail.com) · [LinkedIn](https://linkedin.com/in/harshkaushik1) · [GitHub](https://github.com/harsh4994)
-
 ---
 <br>
 
