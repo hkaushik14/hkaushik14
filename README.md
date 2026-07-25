@@ -17,7 +17,7 @@ I enjoy turning ideas into products — from AI-powered developer tools to full-
 ### 🔧 What I'm building
 
 - [`AppSpec Compiler`](https://github.com/harsh4944/AppSpec-Compiler) — NL → full software spec · 5-stage LLM pipeline · 30+ endpoints
-- [`RideX`](https://github.com/harsh4944/ridex) — Next.js e-commerce · Prisma ORM · 99%+ uptime on Vercel
+- [`RideX`](https://github.com/harsh4944/ridex) — RideX is a full-stack ride-booking web application built with React on the frontend and Node.js/Express on the backend.
 - [`Resume Matcher`](https://github.com/harsh4994/resume-filter) — Transformer embeddings · cosine similarity ranking
 
 ---
